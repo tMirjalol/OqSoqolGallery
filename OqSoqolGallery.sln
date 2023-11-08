@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OqSoqolGallery.Date", "OqSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OqSoqolGallery.Domain", "OqSoqolGallery.Domain\OqSoqolGallery.Domain.csproj", "{ADC5AA38-0798-426F-8C8F-0C6CA2EEEB6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OqSoqolGallery.Api", "OqSoqolGallery.Api\OqSoqolGallery.Api.csproj", "{48CA8C1A-3447-4FAC-8C64-E0E5B9013C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OqSoqolGallery.Service", "OqSoqolGallery.Service\OqSoqolGallery.Service.csproj", "{EBACF8F6-CC6E-4FD4-9A25-4B4909D71671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ADC5AA38-0798-426F-8C8F-0C6CA2EEEB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC5AA38-0798-426F-8C8F-0C6CA2EEEB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC5AA38-0798-426F-8C8F-0C6CA2EEEB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CA8C1A-3447-4FAC-8C64-E0E5B9013C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CA8C1A-3447-4FAC-8C64-E0E5B9013C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CA8C1A-3447-4FAC-8C64-E0E5B9013C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CA8C1A-3447-4FAC-8C64-E0E5B9013C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBACF8F6-CC6E-4FD4-9A25-4B4909D71671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBACF8F6-CC6E-4FD4-9A25-4B4909D71671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBACF8F6-CC6E-4FD4-9A25-4B4909D71671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBACF8F6-CC6E-4FD4-9A25-4B4909D71671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
